@@ -84,5 +84,5 @@ trippen是可以还价的，就看你水平了。
 * [TWU 印度之行（一） - 徐山川 - TWU45 - 北京](https://thoughtworks.jiveon.com/groups/china/blog/2015/08/15/twu-%E5%8D%B0%E5%BA%A6%E4%B9%8B%E8%A1%8C%E7%AC%AC%E4%B8%80%E5%A4%A9#comment-37393)
 * [TWU 印度之行（二） - 徐山川 - TWU45 - 北京](https://thoughtworks.jiveon.com/groups/china/blog/2015/09/06/twu-%E5%8D%B0%E5%BA%A6%E4%B9%8B%E8%A1%8C-%E4%BA%8C)
 * [Get Ready for TWU - TWU core team](https://github.com/carwestsam/TWU-in-practice/blob/master/attachments/GettingReadyforTWU-PuneV1.6.pdf)
-* [分享TWU中得一些事 - Boxing Peng]()
+* [分享TWU中得一些事 - Boxing Peng](https://github.com/carwestsam/TWU-in-practice/blob/master/attachments/Share%20Something%20in%20TWU.pdf)
 * [印度攻略 - 关于印度的旅行攻略](https://github.com/carwestsam/TWU-in-practice/blob/master/attachments/%E5%8D%B0%E5%BA%A6%E6%94%BB%E7%95%A5.pdf)
