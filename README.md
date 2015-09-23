@@ -1,6 +1,8 @@
 #印度攻略
 
-$ author by 柳恒建 & 宋天成 & 顾超 $
+```tex
+author by 柳恒建 & 宋天成 & 顾超
+```
 
 ##出行前准备
 
@@ -74,3 +76,4 @@ trippen是可以还价的，就看你水平了。
 [参考链接]
 * [TWU 印度之行（一） - 徐山川 - TWU45 - 北京](https://thoughtworks.jiveon.com/groups/china/blog/2015/08/15/twu-%E5%8D%B0%E5%BA%A6%E4%B9%8B%E8%A1%8C%E7%AC%AC%E4%B8%80%E5%A4%A9#comment-37393)
 * [TWU 印度之行（二） - 徐山川 - TWU45 - 北京](https://thoughtworks.jiveon.com/groups/china/blog/2015/09/06/twu-%E5%8D%B0%E5%BA%A6%E4%B9%8B%E8%A1%8C-%E4%BA%8C)
+* [Get Ready for TWU - TWU core team](https://github.com/carwestsam/TWU-in-practice/raw/master/attachments/GettingReadyforTWU-PuneV1.6.pdf)
